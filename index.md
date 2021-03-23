@@ -13,13 +13,8 @@ Syntax highlighted code block
 
 # Hassan Mccutchen
 
+![alt text](https://res.cloudinary.com/dqlgw1xiw/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1616543029/220117F6-D9FF-407D-BC2E-E4CAB62B7692_1_201_a_qcxbkc.jpg)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/hmccutchen) and ![Image](https://res.cloudinary.com/dqlgw1xiw/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1616543029/220117F6-D9FF-407D-BC2E-E4CAB62B7692_1_201_a_qcxbkc.jpg)
 [Link](https:twitter.com/h_mccutchen)
 ```
 
