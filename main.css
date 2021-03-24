@@ -1,0 +1,86 @@
+
+h1{
+	text-align: center;
+}
+
+img{
+	border-radius: 50%;
+	max-width: 100%;
+	margin-top: 10px;
+	margin-left: 40%;
+	height: 390px;
+	object-fit: contain;
+}
+
+
+main{
+	margin-left: 22%;
+
+}
+p{
+	text-align: justify;
+	
+
+}
+
+.link-point{
+	text-align: center;
+}
+
+.arrow{
+	writing-mode: vertical-lr;
+	margin-left: 50%;
+}
+
+.footer-links{
+	text-align: center;
+	font-size: 35px;
+	margin-top: 30px;
+
+}
+
+.linkedin{
+	color: black;
+
+}
+
+.linkedin:hover{
+	color: darkblue;
+}
+
+.github{
+	color: black;
+
+
+}
+
+.gihub:hover{
+	color: gray;
+}
+
+
+.twitter{
+	color: #4dabf7;;
+}
+
+.twitter:hover{
+	color: #4dabf7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
